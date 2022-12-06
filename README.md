@@ -1,4 +1,4 @@
-## Hi there 👋 I am Ripas Sorker Rifat 
+<!-- ## Hi there 👋 I am Ripas Sorker Rifat 
 
 <!--
 **ripassorker2/ripassorker2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -52,12 +52,12 @@ Here are some ideas to get you started:
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
 </p><br/>
 
-## :book: My recent blog posts
+<!-- ## :book: My recent blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Common interview questions that you need to know as a junior JavaScript developer.](https://dev.to/mirhussain/common-interview-questions-that-you-need-to-know-as-a-junior-javascript-developer-29a6)
 - [What the heck is JSX in React.](https://dev.to/mirhussain/what-the-heck-is-jsx-in-react-3f0a)
 - [A cleaner approach to write JavaScript &lpar;Bonus tips in the end.&rpar;](https://dev.to/mirhussain/a-cleaner-approach-to-write-javascript-bonus-tips-in-the-end-58ng)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END --> -->
 
 
 ## :chart_with_upwards_trend: Current Stats
@@ -66,3 +66,4 @@ Here are some ideas to get you started:
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=mir-hussain&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
 </p>
+ -->
