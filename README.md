@@ -1,4 +1,4 @@
-
+<!-- 
 <div align="center">
 <img width="100%" src="banner.jpg" alt="cover" />
 
@@ -82,3 +82,4 @@
 
 ![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
 </div>
+ -->
