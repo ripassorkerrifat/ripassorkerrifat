@@ -67,7 +67,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=azmarifcode)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## GitHub Metrics
-![GitHub metrics](https://metrics.lecoq.io/azmarifcode)
+![GitHub metrics](https://metrics.lecoq.io/ripassorker2)
 
 ## GitHub Activity Graph
 ![GitHub Activity Graph](https://github.com/ripassorker2) 
