@@ -56,7 +56,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azmarifcode&show_icons=true&locale=en" alt="azmarifcode" /></p>
 
 ## Streak Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azmarifcode&" alt="azmarifcode"/></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azmarifcode&" alt="azmarifcode"/></p> -->
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ripassorker2&" alt="ripassorker2"/></p>
 
 ## GitHub Badges
 </hr>
@@ -69,7 +70,7 @@
 ![GitHub metrics](https://metrics.lecoq.io/azmarifcode)
 
 ## GitHub Activity Graph
-![GitHub Activity Graph](https://github.com/ripassorker2 ) 
+![GitHub Activity Graph](https://github.com/ripassorker2) 
 
 ![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
 </div>
