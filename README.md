@@ -49,7 +49,7 @@
 
 ## The languages I have used
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azmarifcode)](https://github.com/ripassorker2)
+[![Top Langs](https://github.com/ripassorker2)](https://github.com/ripassorker2)
 
 ## GitHub Stats
   
