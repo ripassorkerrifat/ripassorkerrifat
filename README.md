@@ -53,10 +53,9 @@
 
 ## GitHub Stats
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azmarifcode&show_icons=true&locale=en" alt="azmarifcode" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ripassorker2&show_icons=true&locale=en" alt="ripassorker2" /></p>
 
 ## Streak Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azmarifcode&" alt="azmarifcode"/></p>
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ripassorker2&" alt="ripassorker2"/></p>
 
 ## GitHub Badges
