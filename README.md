@@ -4,34 +4,25 @@
 
 ![Profile views](https://gpvc.arturio.dev/azmarif-lab)
 
-## Hi <img src = "hi.gif" width="50px" height="50px"> I'm  Ripas Sorker Rifat
-
+<!-- ## Hi<img src = "hi.gif" width="50px" height="50px"> I'm  Ripas Sorker Rifat -->
+## Hello! I'm  Ripas Sorker Rifat
 <h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 </div>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ⚡ I'm Web Developer
 </br>
-⚡ Love to write code
+⚡ Love to write Code
 </br>
 ⚡ Like to share my knowledge
 </br>
-⚡ Fun fact: I'm funny
-
-
-🔭 I’m currently working on YouTube 
-</br>
-🌱 I’m currently learning JavaScript 
-</br>
-👯 I’m looking to collaborate on github 
-</br>
 💬 Ask me about Web Development 
 </br>
-📫 Reach me at azmarifcode@gmail.com 
+📫 Reach me at ripassorkerrifat@gmail.com 
 </br>
 
 <div align="center">
-<h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
+<h2>Connect With Me</h2>  
 </div>
 </hr>
 <div align="center">
