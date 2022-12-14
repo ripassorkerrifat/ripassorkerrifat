@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" src="https://cloudemployee.co.uk/media/650109/headermean.png" alt="cover" />
+<img width="100%" height="400px" src="https://cloudemployee.co.uk/media/650109/headermean.png" alt="cover" />
 
 ![Profile views](https://gpvc.arturio.dev/azmarif-lab)
 
