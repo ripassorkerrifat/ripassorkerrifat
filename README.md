@@ -1,10 +1,10 @@
 
 <div align="center">
-<img width="100%" src="banner.jpg" alt="cover" />
+<img width="100%" src="https://cloudemployee.co.uk/media/650109/headermean.png" alt="cover" />
 
 ![Profile views](https://gpvc.arturio.dev/azmarif-lab)
 
-## Hi <img src = "hi.gif" width="50px" height="50px"> I'm  A. Z. M. Arif
+## Hi <img src = "hi.gif" width="50px" height="50px"> I'm  Ripas Sorker Rifat
 
 <h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 </div>
