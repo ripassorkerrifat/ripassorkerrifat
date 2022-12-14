@@ -49,7 +49,7 @@
 
 ## The languages I have used
   
-[![Top Langs](https://github.com/ripassorker2)](https://github.com/ripassorker2)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azmarifcode)](https://github-readme-stats.vercel.app/api/top-langs/?username=azmarifcode)
 
 ## GitHub Stats
   
@@ -69,7 +69,7 @@
 ![GitHub metrics](https://metrics.lecoq.io/azmarifcode)
 
 ## GitHub Activity Graph
-![GitHub Activity Graph](https://github.com/ripassorker2) 
+![GitHub Activity Graph](https://github.com/ripassorker2 ) 
 
 ![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
 </div>
