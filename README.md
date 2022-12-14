@@ -2,7 +2,7 @@
 <div align="center">
 <img width="100%" height="350px" src="https://cloudemployee.co.uk/media/650109/headermean.png" alt="cover" />
 
-![Profile views](https://gpvc.arturio.dev/azmarif-lab)
+![Profile views](https://gpvc.arturio.dev/ripassorker2-lab)
 
 <!-- ## Hi<img src = "hi.gif" width="50px" height="50px"> I'm  Ripas Sorker Rifat -->
 ## Hello! I'm  Ripas Sorker Rifat
