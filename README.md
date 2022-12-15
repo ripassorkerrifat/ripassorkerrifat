@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height="400px" src="https://www.digitalastic.com/wp-content/uploads/2019/07/banner-Web-Development.png" alt="cover" />
+<img width="100%" height="400px" src="https://t3.ftcdn.net/jpg/03/32/86/80/360_F_332868002_EwKc4mpYytHNxavGdJUdE7UzuZ8wnXns.jpg" alt="cover" />
 
 ![Profile views](https://gpvc.arturio.dev/ripassorker2-lab)
 
