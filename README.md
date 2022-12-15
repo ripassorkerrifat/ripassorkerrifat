@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height="350px" src="https://deorwine.b-cdn.net/images/technology/mern-stack-banner.webp" alt="cover" />
+<img width="100%" height="350px" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=740&t=st=1671135573~exp=1671136173~hmac=58700faee3d4b2e3a384b502427fb62136413ec150821b2b032d047aaa711702" alt="cover" />
 
 ![Profile views](https://gpvc.arturio.dev/ripassorker2-lab)
 
