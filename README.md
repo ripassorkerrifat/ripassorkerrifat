@@ -81,7 +81,10 @@
 ## Streak Stats
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ripassorker2&" alt="ripassorker2"/></p>
 
-![visitors](https://komarev.com/ghpvc/?username=nwebpro)
+
+### Profile Visits
+
+![visitors](https://komarev.com/ghpvc/?username=ripassorker2)
 </div>
 
 <!-- 
