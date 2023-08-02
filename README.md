@@ -5,11 +5,7 @@
  </a>
 </p>
 
-
-![visitors](https://komarev.com/ghpvc/?username=ripassorker2)
-
-
-
+<div  align="center">![visitors](https://komarev.com/ghpvc/?username=ripassorker2)</div>
 
 ## 
 <h2 color='pink'> Hello!<img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
