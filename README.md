@@ -74,7 +74,7 @@
 <div align="center">
 
 ## Must Used Languages
-![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ripassorker2&layout=compact&theme=github-dark-blue")
+![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ripassorker2&layout=compact&theme=panda")
 
 
 ## GitHub Stats
