@@ -79,7 +79,7 @@
 
 ## GitHub Stats
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ripassorker2&show_icons=true&locale=en&theme=material-palenight" alt="ripassorker2" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ripassorker2&show_icons=true&locale=en&theme=burnt-neon" alt="ripassorker2" /></p>
 
 
 
