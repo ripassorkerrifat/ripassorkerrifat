@@ -78,8 +78,6 @@
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ripassorker2&show_icons=true&locale=en" alt="ripassorker2" /></p>
 
-## Streak Stats
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ripassorker2&" alt="ripassorker2"/></p>
 
  ## GitHub Badges
 </hr>
@@ -88,10 +86,17 @@
 ## GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ripassorker2)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+<!-- 
+
+## Streak Stats
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ripassorker2&" alt="ripassorker2"/></p>
+
+
 ## GitHub Metrics
 ![GitHub metrics](https://metrics.lecoq.io/ripassorker2)
 
-<!-- ## GitHub Activity Graph
+## GitHub Activity Graph
 ![GitHub Activity Graph](https://github.com/ripassorker2) 
 
 ![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg) -->
