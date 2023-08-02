@@ -1,4 +1,4 @@
-
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=I'm+a+Frontend+Developer;I'm+a+Backend+Developer;" alt="Typing SVG" /></a></p>
 <div align="center">
 <img width="100%" height="380px" src="https://cdn-employer-wp.arc.dev/wp-content/uploads/2022/04/software-development-costs-1128x635.jpg" alt="cover" />
 
