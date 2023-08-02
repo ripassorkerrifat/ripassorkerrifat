@@ -1,12 +1,8 @@
-## <h2 ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=I'm+a+Frontend+Developer;I'm+a+Backend+Developer;" alt="Typing SVG" /></a></h2>
-<div align="center">
-
-![Profile views](https://gpvc.arturio.dev/ripassorker2-lab)
+<p ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=I'm+a+Frontend+Developer;I'm+a+Backend+Developer;" alt="Typing SVG" /></a></p>
 
 <!-- ## Hi<img src = "hi.gif" width="50px" height="50px"> I'm  Ripas Sorker Rifat -->
 ## Hello! I'm  Ripas Sorker Rifat
 <h2 color='pink'> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
-</div>
 <!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
  -->
 ⚡ I'm Web Developer
