@@ -1,8 +1,13 @@
+<div align="center">
+
 <p>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=550&lines=I'm+a+Frontend+Developer;I'm+a+Backend+Developer;" alt="Typing SVG" />
  </a>
- ![visitors](https://komarev.com/ghpvc/?username=ripassorker2)
 </p>
+![visitors](https://komarev.com/ghpvc/?username=ripassorker2)
+
+</div>
+
 
 ## 
 <h2 color='pink'> Hello!<img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
