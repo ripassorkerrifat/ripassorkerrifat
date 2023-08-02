@@ -8,7 +8,7 @@
 :coffee: &emsp;About me!
 
 <p>
- Hello! I am Md Ripas Sorker Rifat. I am twenty years old. I am doing my Bachelor in Dhaka International University right now. I am passionate about entering the world of websites and contributing towards making a social impact on users. I have been following various technology magazines and pages to escalate my growth and understanding of this field. I believe in evolving my knowledge and learning continuously every day.
+ Hello! I am Md Ripas Sorker Rifat. I am twenty years old. I am doing my Bachelor's in Dhaka International University right now. I am passionate about entering the world of websites and contributing towards making a social impact on users. I have been following various technology magazines and pages to escalate my growth and understanding of this field. I believe in evolving my knowledge and learning continuously every day.
 </p>
 
 
@@ -74,7 +74,7 @@
 <div align="center">
 
 ## Must Used Languages
-![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ripassorker2&layout=compact&theme=panda")
+![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ripassorker2&layout=compact&theme=burnt-neon")
 
 
 ## GitHub Stats
