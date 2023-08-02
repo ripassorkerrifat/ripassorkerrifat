@@ -5,8 +5,7 @@
  </a>
 </p>
 
-### 
-<h2 color='pink'> Hello!<img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
+:coffee: &emsp;About me!
 
 <p>
  Hello! I am Md Ripas Sorker Rifat. I am twenty years old. I am doing my Bachelor in Dhaka International University right now. I am passionate about entering the world of websites and contributing towards making a social impact on users. I have been following various technology magazines and pages to escalate my growth and understanding of this field. I believe in evolving my knowledge and learning continuously every day.
