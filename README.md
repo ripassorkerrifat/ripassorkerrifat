@@ -78,15 +78,13 @@
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ripassorker2&show_icons=true&locale=en&theme=radical" alt="ripassorker2" /></p>
 
+![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ripassorker2&layout=compact&theme=radical&hide")
+
 ## Streak Stats
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ripassorker2&theme=radical" alt="ripassorker2"/></p>
 
 
 ![visitors](https://komarev.com/ghpvc/?username=ripassorker2)
-
-![Naeem's github stats](https://github-readme-stats.vercel.app/api?username=ripassorker2&count_private=true&theme=tokyonight&hide=contribs,prs)
-
-![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ripassorker2&layout=compact&theme=tokyonight&hide")
 
 
 </div>
