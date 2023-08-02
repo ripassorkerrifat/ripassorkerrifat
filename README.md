@@ -64,31 +64,11 @@
 [![Yarn Badge](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&labelColor=black&logo=yarn&logoColor=2C8EBB)](#) 
 [![Figma Badge](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)](#) 
 [![Canva Badge](https://img.shields.io/badge/Canva-%2320C4CB.svg?style=for-the-badge&labelColor=black&logo=Canva&logoColor=20C4CB)](#) 
-[![Adobe Photoshop Badge](https://img.shields.io/badge/adobe_photoshop-%2331A8FF.svg?style=for-the-badge&labelColor=black&logo=adobephotoshop&logoColor=31A8FF)](#) 
-[![Adobe Illustrator Badge](https://img.shields.io/badge/adobe_illustrator-%23FF7D00.svg?style=for-the-badge&labelColor=black&logo=adobe%20illustrator&logoColor=FF7D00)](#) 
 [![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&labelColor=black&logo=netlify&logoColor=#00C7B7)](#) 
 [![Vercel Badge](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)](#) 
-[![Trello Badge](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&labelColor=black&logo=Trello&logoColor=026AA7)](#) 
-[![Devto Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](#) 
-[![Powershell Badge](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&labelColor=black&logo=powershell&logoColor=2CA5E0)](#) 
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&labelColor=black&logo=discord&logoColor=7289DA)](#) 
 [![Zoom Badge](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&labelColor=black&logo=zoom&logoColor=2D8CFF)](#) 
 [![Zoom Badge](https://img.shields.io/badge/stackoverflow-f48024?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=f48024)](#) 
-
-## 💻 Familiar
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-[![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) 
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B)](#) 
-[![JWT Badge Badge](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=00ADEF)](#) 
-[![Redux Badge](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&labelColor=black&logo=redux&logoColor=593d88)](#) 
-[![Styled Components Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&labelColor=black&logo=styled-components&logoColor=DB7093)](#)
-
-[![Socket.io Badge](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)](#) 
-<!-- [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)](#) -->
-<!-- ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
-
-
-
 
 </div>
 </hr>
