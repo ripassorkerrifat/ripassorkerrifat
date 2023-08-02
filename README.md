@@ -84,9 +84,9 @@
 
 ![visitors](https://komarev.com/ghpvc/?username=ripassorker2)
 
-![Naeem's github stats](https://github-readme-stats.vercel.app/api?username=nwebpro&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Naeem's github stats](https://github-readme-stats.vercel.app/api?username=ripassorker2&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nwebpro&layout=compact&theme=tokyonight&hide")
+![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ripassorker2&layout=compact&theme=tokyonight&hide")
 
 
 </div>
