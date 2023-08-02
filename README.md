@@ -71,11 +71,8 @@
 
 
 
-<div align="center">
+<div>
 
-## The languages I have used
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azmarifcode)](https://github-readme-stats.vercel.app/api/top-langs/?username=azmarifcode)
 
 ## GitHub Stats
   
