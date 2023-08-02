@@ -74,17 +74,17 @@
 <div align="center">
 
 ## Must Used Languages
-![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ripassorker2&layout=compact&theme=horizon&hide")
+![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ripassorker2&layout=compact&theme=blux&hide")
 
 
 ## GitHub Stats
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ripassorker2&show_icons=true&locale=en&theme=horizon" alt="ripassorker2" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ripassorker2&show_icons=true&locale=en&theme=aura" alt="ripassorker2" /></p>
 
 
 
 ## Streak Stats
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ripassorker2&theme=horizon" alt="ripassorker2"/></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ripassorker2&theme=burnt-neon" alt="ripassorker2"/></p>
 
 
 ![visitors](https://komarev.com/ghpvc/?username=ripassorker2)
