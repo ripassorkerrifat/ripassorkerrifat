@@ -74,7 +74,7 @@
 <div align="center">
 
 ## Must Used Languages
-![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ripassorker2&layout=compact&theme=burnt-neon")
+![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ripassorkerrifat&layout=compact&theme=burnt-neon")
 
 
 
@@ -82,10 +82,10 @@
 
 
 ## Streak Stats
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ripassorker2&theme=burnt-neon" alt="ripassorker2"/></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ripassorker2&theme=burnt-neon" alt="ripassorkerrifat"/></p>
 
 
-![visitors](https://komarev.com/ghpvc/?username=ripassorker2)
+![visitors](https://komarev.com/ghpvc/?username=ripassorkerrifat)
 
 
 </div>
