@@ -85,7 +85,7 @@
 
 
 ## Streak Stats
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ripassorker2&theme=burnt-neon" alt="ripassorkerrifat"/></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ripassorkerrifat&theme=burnt-neon" alt="ripassorkerrifat"/></p>
 
 
 ![visitors](https://komarev.com/ghpvc/?username=ripassorkerrifat)
@@ -94,11 +94,11 @@
 </div>
 
 <!-- 
-## GitHub Stats <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ripassorker2&show_icons=true&locale=en&theme=aura" alt="ripassorker2" /></p>
+## GitHub Stats <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ripassorkerrifat&show_icons=true&locale=en&theme=aura" alt="ripassorkerrifat" /></p>
 
 
 ## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ripassorker2)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ripassorkerrifat)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -109,10 +109,10 @@
 
 
 ## GitHub Metrics
-![GitHub metrics](https://metrics.lecoq.io/ripassorker2)
+![GitHub metrics](https://metrics.lecoq.io/ripassorkerrifat)
 
 ## GitHub Activity Graph
-![GitHub Activity Graph](https://github.com/ripassorker2) 
+![GitHub Activity Graph](https://github.com/ripassorkerrifat) 
 
 ![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg) -->
 
