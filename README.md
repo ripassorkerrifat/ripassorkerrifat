@@ -48,6 +48,9 @@
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B)](#) 
 [![JWT Badge](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=00ADEF)](#) 
 [![Socket.io Badge](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)](#) 
+[![Prisma Badge](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&labelColor=black&logo=prisma&logoColor=white)](#)
+[![NoSQL Badge](https://img.shields.io/badge/NoSQL-%23000000.svg?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=orange)](#)
+[![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=white)](#)
 
 
 ## 💻 Tools  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px">
