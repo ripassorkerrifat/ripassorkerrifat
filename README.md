@@ -90,6 +90,9 @@
 
 ![visitors](https://komarev.com/ghpvc/?username=ripassorkerrifat)
 
+## GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=ripassorkerrifat)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 </div>
 
@@ -97,8 +100,7 @@
 ## GitHub Stats <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ripassorkerrifat&show_icons=true&locale=en&theme=aura" alt="ripassorkerrifat" /></p>
 
 
-## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ripassorkerrifat)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
