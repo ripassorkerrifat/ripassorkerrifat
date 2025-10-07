@@ -37,21 +37,34 @@ Hello! I am **Md Ripas Sorker Rifat**, a passionate **Full-Stack Developer** spe
 - Contributing to **open-source projects**
 - Exploring **AI/ML integration** in web apps
 
-📍 **Location:** Dhaka, Bangladesh  
-📧 **Email:** ripassorkerrifat@gmail.com  
-📱 **Phone:** +880 1744876681
+📍 **Location:** Dhaka, Bangladesh
 
 ---
 
 ## 🌐 Connect with Me!
 
+<div align="center">
+
+**Let's build something amazing together! Feel free to reach out through any of these platforms:**
+
+</div>
+
 <p align="center">
+  <a href="https://ripassorkerrifat.me/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-6366F1?style=for-the-badge" alt="Portfolio"/>
+  </a>
   <a href="https://github.com/ripassorkerrifat" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/ripas-sorker-rifat-b42a01257/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="mailto:ripassorkerrifat@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.facebook.com/ripassorkerrifat" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
@@ -61,10 +74,18 @@ Hello! I am **Md Ripas Sorker Rifat**, a passionate **Full-Stack Developer** spe
   <a href="https://www.instagram.com/ripassorkerrifat" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:ripassorkerrifat@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="https://wa.me/8801744876681" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
+
+<div align="center">
+
+📧 **Email:** ripassorkerrifat@gmail.com  
+📱 **Phone:** +880 1744876681  
+🌐 **Website:** [ripassorkerrifat.me](https://ripassorkerrifat.me/)
+
+</div>
 
 ---
 
@@ -232,52 +253,76 @@ const skills = {
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 Full Stack Developer
-**Cadence IT** • Remote  
-📅 March 2024 - Present • 🟢 **Currently Working**
+<h3>🚀 Full Stack Developer</h3>
+<p><strong>Cadence IT</strong> • 📍 Remote<br/>
+📅 March 2024 - Present<br/>
+<img src="https://img.shields.io/badge/Status-Currently_Working-22C55E?style=flat-square&logo=checkmarx" alt="status"/></p>
 
-Developing and maintaining full-stack web applications including OTA platforms, HRMS systems, and e-commerce solutions. Leading frontend development with React/Next.js and building robust backend APIs.
+<p align="justify">
+Developing and maintaining full-stack web applications including OTA platforms, HRMS systems, and e-commerce solutions. Leading frontend development with React/Next.js and building robust backend APIs with modern technologies.
+</p>
 
-**Tech Stack:**  
-`React` `Next.js` `Node.js` `Express.js` `MongoDB` `PostgreSQL` `TypeScript` `Prisma` `Tailwind CSS` `Redux` `JWT` `AWS`
+<details>
+<summary><b>🛠️ Technologies Used</b></summary>
+<br/>
+<code>React</code> <code>Next.js</code> <code>TypeScript</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Tailwind CSS</code> <code>Redux</code> <code>JWT</code> <code>AWS</code>
+</details>
 
 </td>
 <td width="50%" valign="top">
 
-### 💻 Freelance Developer
-**Independent Projects** • Remote  
-📅 2022 - Present • 🟢 **Currently Working**
+<h3>💻 Freelance Developer</h3>
+<p><strong>Independent Projects</strong> • 📍 Remote<br/>
+📅 2022 - Present<br/>
+<img src="https://img.shields.io/badge/Status-Currently_Working-22C55E?style=flat-square&logo=checkmarx" alt="status"/></p>
 
+<p align="justify">
 Working on various freelance projects including OTA platforms, portfolio websites, HRMS solutions, and custom web applications for clients worldwide. Specializing in modern React/Next.js frontend with full-stack capabilities.
+</p>
 
-**Tech Stack:**  
-`React` `Next.js` `Node.js` `Express.js` `MongoDB` `TypeScript` `Tailwind CSS` `Framer Motion` `Redux`
+<details>
+<summary><b>🛠️ Technologies Used</b></summary>
+<br/>
+<code>React</code> <code>Next.js</code> <code>TypeScript</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>Tailwind CSS</code> <code>Framer Motion</code> <code>Redux</code>
+</details>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 Junior Web Developer
-**Edupy Academy** • Remote  
-📅 April 2023 - September 2023 • Internship
+<h3>🎓 Junior Web Developer</h3>
+<p><strong>Edupy Academy</strong> • 📍 Remote<br/>
+📅 April 2023 - September 2023<br/>
+<img src="https://img.shields.io/badge/Type-Internship-8B5CF6?style=flat-square" alt="type"/></p>
 
+<p align="justify">
 Developed a comprehensive EduTech learning and marketplace platform. Designed and implemented a responsive web application with modern React/Next.js frontend and robust Node.js backend.
+</p>
 
-**Tech Stack:**  
-`React` `JavaScript` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Socket.io`
+<details>
+<summary><b>🛠️ Technologies Used</b></summary>
+<br/>
+<code>React</code> <code>JavaScript</code> <code>Tailwind CSS</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>Socket.io</code>
+</details>
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Web Developer
-**The Change** • Remote  
-📅 April 2022 - September 2022 • Internship
+<h3>🌐 Web Developer</h3>
+<p><strong>The Change</strong> • 📍 Remote<br/>
+📅 April 2022 - September 2022<br/>
+<img src="https://img.shields.io/badge/Type-Internship-8B5CF6?style=flat-square" alt="type"/></p>
 
+<p align="justify">
 Worked on social activities project during internship. Gained hands-on experience in web development by building responsive websites, implementing APIs, and optimizing performance.
+</p>
 
-**Tech Stack:**  
-`HTML` `CSS` `JavaScript` `React` `Tailwind CSS`
+<details>
+<summary><b>🛠️ Technologies Used</b></summary>
+<br/>
+<code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>React</code> <code>Tailwind CSS</code>
+</details>
 
 </td>
 </tr>
@@ -287,119 +332,57 @@ Worked on social activities project during internship. Gained hands-on experienc
 
 ## ⭐ Featured Projects
 
-### 🚀 Live Production Projects
+### ✈️ OTA (Online Travel Agency) Platforms
 
-#### ✈️ OTA (Online Travel Agency) Platforms
+<div align="center">
 
-<table>
-<tr>
-<td width="33%" align="center">
-<a href="https://goplane.com/" target="_blank">
-<img src="https://img.shields.io/badge/🌍_GOPLANE-B2C_TRAVEL_PLATFORM-0EA5E9?style=for-the-badge" alt="GoPlane"/>
-</a>
+| 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
+|:-----------|:---------------|:---------------|:-------:|
+| **GoPlane**<br/>![](https://img.shields.io/badge/B2C-Platform-0EA5E9?style=flat-square) | Comprehensive B2C travel booking platform with flight search, booking management, and payment integration | `React` `Next.js` `TypeScript` `Node.js` | [<img src="https://img.shields.io/badge/Visit-Live-22C55E?style=for-the-badge&logo=vercel" height="25"/>](https://goplane.com/) |
+| **Flight24 B2B**<br/>![](https://img.shields.io/badge/B2B-OTA_System-10B981?style=flat-square) | Enterprise-level B2B OTA system for travel agencies with advanced booking features and agent management | `Next.js` `Node.js` `MongoDB` `Express` | [<img src="https://img.shields.io/badge/Visit-Live-22C55E?style=for-the-badge&logo=vercel" height="25"/>](http://b2b.flight24.co/) |
+| **HajeeAir B2B**<br/>![](https://img.shields.io/badge/B2B-Flight_Booking-0891B2?style=flat-square) | Specialized B2B flight booking platform with real-time availability and competitive pricing | `React` `TypeScript` `Express.js` `API` | [<img src="https://img.shields.io/badge/Visit-Live-22C55E?style=for-the-badge&logo=vercel" height="25"/>](https://hajeeair.com/) |
 
-**GoPlane**  
-Comprehensive B2C travel booking platform with flight search, booking management, and payment integration
+</div>
 
-`React` `Next.js` `TypeScript`
+### 💎 E-Commerce & Retail
 
-</td>
-<td width="33%" align="center">
-<a href="http://b2b.flight24.co/" target="_blank">
-<img src="https://img.shields.io/badge/✈️_FLIGHT24-B2B_OTA_SYSTEM-10B981?style=for-the-badge" alt="Flight24"/>
-</a>
+<div align="center">
 
-**Flight24 B2B**  
-Enterprise-level B2B OTA system for travel agencies with advanced booking features
+| 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
+|:-----------|:---------------|:---------------|:-------:|
+| **JewelStone**<br/>![](https://img.shields.io/badge/E--Commerce-Jewelry-F59E0B?style=flat-square) | Elegant e-commerce platform for jewelry retail with product catalog, shopping cart, and secure payment gateway | `Next.js` `Tailwind CSS` `MongoDB` `Stripe` | [<img src="https://img.shields.io/badge/Visit-Live-22C55E?style=for-the-badge&logo=shopify" height="25"/>](https://jewelstone.com.bd/) |
 
-`Next.js` `Node.js` `MongoDB`
+</div>
 
-</td>
-<td width="33%" align="center">
-<a href="https://hajeeair.com/" target="_blank">
-<img src="https://img.shields.io/badge/🛫_HAJEEAIR-B2B_FLIGHT_BOOKING-0891B2?style=for-the-badge" alt="HajeeAir"/>
-</a>
+### 🎓 EdTech & Learning
 
-**HajeeAir B2B**  
-Specialized B2B flight booking platform with real-time availability and pricing
+<div align="center">
 
-`React` `TypeScript` `Express.js`
+| 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
+|:-----------|:---------------|:---------------|:-------:|
+| **Medhabi**<br/>![](https://img.shields.io/badge/LMS-Platform-8B5CF6?style=flat-square) | Learning Management System with course management, student tracking, interactive learning tools, and real-time collaboration | `React` `Node.js` `MongoDB` `Socket.io` | [<img src="https://img.shields.io/badge/Visit-Live-22C55E?style=for-the-badge&logo=google-classroom" height="25"/>](https://medhabi.co/) |
 
-</td>
-</tr>
-</table>
+</div>
 
-#### 💎 E-Commerce & Retail
+### 🌟 Social & Marketplace
 
-<table>
-<tr>
-<td width="100%" align="center">
-<a href="https://jewelstone.com.bd/" target="_blank">
-<img src="https://img.shields.io/badge/💍_JEWELSTONE-JEWELRY_E--COMMERCE-F59E0B?style=for-the-badge" alt="JewelStone"/>
-</a>
+<div align="center">
 
-**JewelStone**  
-Elegant e-commerce platform for jewelry retail with product catalog, cart, and secure checkout
+| 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
+|:-----------|:---------------|:---------------|:-------:|
+| **Clout9**<br/>![](https://img.shields.io/badge/Marketplace-Influencer-EC4899?style=flat-square) | Influencer marketplace connecting brands with content creators for marketing campaigns and collaborations | `React` `Next.js` `Node.js` `PostgreSQL` | [<img src="https://img.shields.io/badge/Visit-Live-22C55E?style=for-the-badge&logo=youtube" height="25"/>](https://clout9.com/) |
 
-`Next.js` `Tailwind CSS` `MongoDB` `Payment Integration`
+</div>
 
-</td>
-</tr>
-</table>
+### 🧠 Health & Wellness
 
-#### 🎓 EdTech & Learning
+<div align="center">
 
-<table>
-<tr>
-<td width="100%" align="center">
-<a href="https://medhabi.co/" target="_blank">
-<img src="https://img.shields.io/badge/📚_MEDHABI-LMS_PLATFORM-8B5CF6?style=for-the-badge" alt="Medhabi"/>
-</a>
+| 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
+|:-----------|:---------------|:---------------|:-------:|
+| **Mental Health Tracker**<br/>![](https://img.shields.io/badge/Healthcare-Wellness-22C55E?style=flat-square) | Comprehensive mental health tracking and guidance platform with mood monitoring, analytics, and professional resources | `Next.js` `TypeScript` `MongoDB` `Vercel` | [<img src="https://img.shields.io/badge/Visit-Live-22C55E?style=for-the-badge&logo=react" height="25"/>](https://mental-health-olive.vercel.app/) |
 
-**Medhabi**  
-Learning Management System (LMS) with course management, student tracking, and interactive learning tools
-
-`React` `Node.js` `MongoDB` `Socket.io`
-
-</td>
-</tr>
-</table>
-
-#### 🌟 Social & Marketplace
-
-<table>
-<tr>
-<td width="100%" align="center">
-<a href="https://clout9.com/" target="_blank">
-<img src="https://img.shields.io/badge/🎭_CLOUT9-INFLUENCER_MARKETPLACE-EC4899?style=for-the-badge" alt="Clout9"/>
-</a>
-
-**Clout9**  
-Influencer marketplace connecting brands with content creators for marketing campaigns
-
-`Full Stack` `React` `Next.js` `Node.js`
-
-</td>
-</tr>
-</table>
-
-#### 🧠 Health & Wellness
-
-<table>
-<tr>
-<td width="100%" align="center">
-<a href="https://mental-health-olive.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/🧘_MENTAL_HEALTH-TRACKING_%26_GUIDANCE-22C55E?style=for-the-badge" alt="Mental Health Tracker"/>
-</a>
-
-**Mental Health Tracker**  
-Comprehensive mental health tracking and guidance platform with mood monitoring and resources
-
-`Next.js` `TypeScript` `Vercel` `Database`
-
-</td>
-</tr>
-</table>
+</div>
 
 ### 📊 Project Statistics
 
@@ -418,21 +401,13 @@ Comprehensive mental health tracking and guidance platform with mood monitoring 
 
 ---
 
-## 💬 Let's Connect!
+## 💡 Fun Fact
 
 <div align="center">
 
-**I'm always interested in collaborating on innovative projects!**
+> *"I believe in evolving my knowledge and learning continuously every day. Technology excites me, and I love contributing towards making a social impact through innovative web solutions!"*
 
-📧 **Email:** ripassorkerrifat@gmail.com  
-💼 **LinkedIn:** [Ripas Sorker Rifat](https://www.linkedin.com/in/ripas-sorker-rifat-b42a01257/)  
-🌐 **Portfolio:** [ripassorkerrifat.me](https://ripassorkerrifat.me/)  
-📱 **Phone:** +880 1744876681
-
-<br/>
-
-### ⚡ Fun Fact
-*I believe in evolving my knowledge and learning continuously every day. Technology excites me, and I love contributing towards making a social impact through innovative web solutions!*
+**🌟 Always exploring new technologies and pushing the boundaries of what's possible with code!**
 
 </div>
 
