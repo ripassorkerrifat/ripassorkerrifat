@@ -168,22 +168,24 @@ I'm also deeply interested in **system scalability**, **DevOps practices**, and 
 
 ## 📊 GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ripassorkerrifat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ripassorkerrifat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<p>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ripassorkerrifat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ripassorkerrifat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripassorkerrifat&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+### 📊 Most Used Languages
 
----
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripassorkerrifat&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=ripassorkerrifat&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ripassorkerrifat&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 
 ---
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ripassorkerrifat&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ripassorkerrifat&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
 ---
 
