@@ -160,35 +160,17 @@ I'm deeply interested in **system scalability**, **DevOps practices**, and **per
 
 ## 📊 Detailed GitHub Metrics
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Languages by Repository
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ripassorkerrifat&theme=tokyonight" alt="Top Languages by Repo" />
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 GitHub Stats Summary
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ripassorkerrifat&theme=tokyonight" alt="Stats" />
-
-</td>
-</tr>
-</table>
-
-### 📅 Yearly Contribution Heatmap
-
-<img width="100%" src="https://ghchart.rshah.org/6366f1/ripassorkerrifat" alt="GitHub Contribution Chart" />
+<p>
+  <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ripassorkerrifat&theme=tokyonight" alt="Top Languages by Repo" />
+  <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ripassorkerrifat&theme=tokyonight" alt="Stats" />
+</p>
 
 ---
 
 ## 💼 Professional Highlights
 
 | 🎯 **Experience** | 🚀 **Projects** | 💡 **Technologies** | 🌟 **Specialization** |
-|:---:|:---:|:---:|:---:|
+|---|---|---|---|
 | 2.7+ Years | 7 Live Projects | 20+ Tech Stack | Full Stack Development |
 
 ### 🔥 Core Expertise
@@ -354,6 +336,12 @@ Worked on social activities project during internship. Gained hands-on experienc
 > *"I believe in evolving my knowledge and learning continuously every day. Technology excites me, and I love contributing towards making a social impact through innovative web solutions!"*
 
 **🌟 Always exploring new technologies and pushing the boundaries of what's possible with code!**
+
+---
+
+### 📅 Yearly Contribution Heatmap
+
+<img width="100%" src="https://ghchart.rshah.org/6366f1/ripassorkerrifat" alt="GitHub Contribution Chart" />
 
 ---
 
