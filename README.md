@@ -15,29 +15,117 @@
 
 ## ☕ About Me!
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<div align="center">
 
-Hello! I am **Md Ripas Sorker Rifat**, a passionate **Full-Stack Developer** specializing in building modern, scalable web applications. I'm currently pursuing my Bachelor's degree in **Computer Science & Engineering** at **Dhaka International University**.
+### 👨‍💻 Full-Stack Web Developer | Building Scalable & Modern Applications
 
-🚀 **What I Do:**
-- Build innovative web solutions with **React, Next.js, and TypeScript**
-- Design and develop **RESTful APIs** with Node.js and Express
-- Create **responsive, user-centric interfaces** with modern UI frameworks
-- Architect **full-stack applications** with MongoDB, PostgreSQL, and Firebase
+</div>
 
-💼 **Professional Experience:**
-- **2+ years** of hands-on development experience
-- Worked on **OTA (Online Travel Agency)** platforms as a frontend expert
-- Built comprehensive **HRMS (Human Resource Management Systems)**
-- Developed elegant **e-commerce platforms** for various industries
+<table>
+<tr>
+<td width="55%" valign="top">
 
-🎯 **Current Focus:**
-- Mastering **Cloud Technologies** (AWS, Docker)
-- Building **high-performance web applications**
-- Contributing to **open-source projects**
-- Exploring **AI/ML integration** in web apps
+Hello! I am **Md Ripas Sorker Rifat**, a passionate **Full-Stack Developer** specializing in building **modern, scalable, and user-centric web applications** using cutting-edge technologies like **React**, **Next.js**, **Node.js**, **Express.js**, and **PostgreSQL/MongoDB**.
 
+My journey began with a deep curiosity about how web applications work, which has evolved into a passion for crafting seamless digital experiences. With over **2.7 years of professional experience**, I've contributed to diverse projects—from **Online Travel Agency (OTA)** platforms where I specialized in frontend development, to comprehensive **HRMS systems** and elegant **jewelry e-commerce platforms**.
+
+I focus on writing **clean, maintainable, and efficient code** that brings both functionality and delight to end-users. My expertise spans **frontend development, full-stack architecture, and database management**, and I thrive on tackling complex, real-world problems that require both **technical depth and creative thinking**.
+
+I'm also deeply interested in **system scalability**, **DevOps practices**, and **performance optimization**, ensuring that every product I build is stable, efficient, and ready for growth.
+
+🎓 **Education:** Bachelor's in Computer Science & Engineering  
+🏫 **Institution:** Dhaka International University (Ongoing)  
 📍 **Location:** Dhaka, Bangladesh
+
+</td>
+<td width="45%" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding">
+
+### 🎯 Core Expertise
+
+```yaml
+✅ Custom Web Applications
+✅ Full-Stack Development
+✅ API Development & Integration
+✅ Database Design & Optimization
+✅ Scalable Architecture & DevOps
+```
+
+### 🛠️ Core Technical Skills
+
+<details open>
+<summary><b>Click to expand</b></summary>
+<br/>
+
+**Languages:**  
+`Python` `JavaScript` `TypeScript` `CSS`
+
+**Frontend:**  
+`React` `Next.js` `Redux` `Tailwind CSS`
+
+**Backend:**  
+`Node.js` `Express.js`
+
+**Databases:**  
+`MongoDB` `PostgreSQL` `MySQL` `Prisma` `Firebase`
+
+**DevOps & Tools:**  
+`AWS` `Docker` `Git` `Linux`
+
+</details>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🚀 What I Do
+
+• Build **innovative web solutions** with **React, Next.js, and TypeScript**  
+• Design and develop **RESTful APIs** with Node.js and Express  
+• Create **responsive, user-centric interfaces** with modern UI frameworks  
+• Architect **full-stack applications** with MongoDB, PostgreSQL, and Firebase
+
+</td>
+<td width="33%" align="center">
+
+### 💼 Professional Experience
+
+• **2.7+ years** of hands-on development experience  
+• Worked on **OTA (Online Travel Agency)** platforms as a frontend expert  
+• Built comprehensive **HRMS (Human Resource Management Systems)**  
+• Developed elegant **e-commerce platforms** for various industries
+
+</td>
+<td width="33%" align="center">
+
+### 🎯 Current Focus
+
+• Mastering **Cloud Technologies** (AWS, Docker)  
+• Building **high-performance web applications**  
+• **System Scalability** & **Performance Optimization**  
+• Contributing to **open-source projects**  
+• Exploring **AI/ML integration** in web apps
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 💡 My Philosophy
+
+> *"Let's work together and build something truly exceptional."*
+
+**Passionate about creating seamless digital experiences that make a real impact! 🌟**
+
+</div>
 
 ---
 
