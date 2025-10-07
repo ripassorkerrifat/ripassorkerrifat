@@ -234,11 +234,68 @@ const skills = {
 
 ## 🌟 Featured Projects
 
+### 🚀 **Live Production Projects**
+
+#### ✈️ **OTA (Online Travel Agency) Platforms**
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Modern_Web_App-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/ripassorkerrifat)
-[![HRMS](https://img.shields.io/badge/HRMS-Management_System-22C55E?style=for-the-badge&logo=react&logoColor=white)](https://github.com/ripassorkerrifat)
-[![E-Commerce](https://img.shields.io/badge/E--Commerce-Jewelry_Platform-F59E0B?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/ripassorkerrifat)
+[![GoPlane](https://img.shields.io/badge/GoPlane-B2C_Travel_Platform-0EA5E9?style=for-the-badge&logo=react&logoColor=white)](https://goplane.com/)
+[![Flight24 B2B](https://img.shields.io/badge/Flight24-B2B_OTA_System-10B981?style=for-the-badge&logo=next.js&logoColor=white)](http://b2b.flight24.co/)
+[![HajeeAir](https://img.shields.io/badge/HajeeAir-B2B_Flight_Booking-0891B2?style=for-the-badge&logo=typescript&logoColor=white)](https://hajeeair.com/)
+
+</div>
+
+- **GoPlane** - Comprehensive B2C travel booking platform with flight search, booking management, and payment integration
+- **Flight24 B2B** - Enterprise-level B2B OTA system for travel agencies with advanced booking features
+- **HajeeAir B2B** - Specialized B2B flight booking platform with real-time availability and pricing
+
+#### 💎 **E-Commerce & Retail**
+<div align="center">
+
+[![JewelStone](https://img.shields.io/badge/JewelStone-Jewelry_E--Commerce-F59E0B?style=for-the-badge&logo=shopify&logoColor=white)](https://jewelstone.com.bd/)
+
+</div>
+
+- **JewelStone** - Elegant e-commerce platform for jewelry retail with product catalog, cart, and secure checkout
+
+#### 🎓 **EdTech & Learning**
+<div align="center">
+
+[![Medhabi](https://img.shields.io/badge/Medhabi-LMS_Platform-8B5CF6?style=for-the-badge&logo=react&logoColor=white)](https://medhabi.co/)
+
+</div>
+
+- **Medhabi** - Learning Management System (LMS) with course management, student tracking, and interactive learning tools
+
+#### 🌟 **Social & Marketplace**
+<div align="center">
+
+[![Clout9](https://img.shields.io/badge/Clout9-Influencer_Marketplace-EC4899?style=for-the-badge&logo=instagram&logoColor=white)](https://clout9.com/)
+
+</div>
+
+- **Clout9** - Influencer marketplace connecting brands with content creators for marketing campaigns
+
+#### 🧠 **Health & Wellness**
+<div align="center">
+
+[![Mental Health Tracker](https://img.shields.io/badge/Mental_Health-Tracking_%26_Guidance-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://mental-health-olive.vercel.app/)
+
+</div>
+
+- **Mental Health Tracker** - Comprehensive mental health tracking and guidance platform with mood monitoring and resources
+
+### 💼 **Project Statistics**
+
+<div align="center">
+
+| Category | Projects | Technologies |
+|:--------:|:--------:|:------------:|
+| **OTA Platforms** | 3 | React, Next.js, TypeScript |
+| **E-Commerce** | 1 | Next.js, Tailwind CSS |
+| **EdTech** | 1 | React, Node.js, MongoDB |
+| **Marketplace** | 1 | Full Stack |
+| **Healthcare** | 1 | Next.js, Vercel |
 
 </div>
 
@@ -252,7 +309,7 @@ const skills = {
 
 📧 **Email:** ripassorkerrifat@gmail.com  
 💼 **LinkedIn:** [Ripas Sorker Rifat](https://www.linkedin.com/in/ripas-sorker-rifat-b42a01257/)  
-🌐 **Portfolio:** Coming Soon  
+🌐 **Portfolio:** [ripassorkerrifat.me](https://ripassorkerrifat.me/)  
 📱 **Phone:** +880 1744876681
 
 <br/>
