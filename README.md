@@ -168,14 +168,24 @@ I'm also deeply interested in **system scalability**, **DevOps practices**, and 
 
 ## 📊 GitHub Statistics
 
-<p>
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ripassorkerrifat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ripassorkerrifat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=ripassorkerrifat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ripassorkerrifat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</td>
+<td width="50%" valign="top">
 
 ### 📊 Most Used Languages
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripassorkerrifat&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+
+</td>
+</tr>
+</table>
 
 ### 🏆 GitHub Trophies
 
