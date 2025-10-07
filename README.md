@@ -167,12 +167,6 @@ I'm deeply interested in **system scalability**, **DevOps practices**, and **per
 
 ---
 
-## 💼 Professional Highlights
-
-| 🎯 **Experience** | 🚀 **Projects** | 💡 **Technologies** | 🌟 **Specialization** |
-|---|---|---|---|
-| 2.7+ Years | 7 Live Projects | 20+ Tech Stack | Full Stack Development |
-
 ### 🔥 Core Expertise
 
 ```typescript
