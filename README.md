@@ -158,6 +158,33 @@ I'm deeply interested in **system scalability**, **DevOps practices**, and **per
 
 ---
 
+## 📊 Detailed GitHub Metrics
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Languages by Repository
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ripassorkerrifat&theme=tokyonight" alt="Top Languages by Repo" />
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 GitHub Stats Summary
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ripassorkerrifat&theme=tokyonight" alt="Stats" />
+
+</td>
+</tr>
+</table>
+
+### 📅 Yearly Contribution Heatmap
+
+<img width="100%" src="https://ghchart.rshah.org/6366f1/ripassorkerrifat" alt="GitHub Contribution Chart" />
+
+---
+
 ## 💼 Professional Highlights
 
 | 🎯 **Experience** | 🚀 **Projects** | 💡 **Technologies** | 🌟 **Specialization** |
@@ -340,4 +367,4 @@ Worked on social activities project during internship. Gained hands-on experienc
 
 **© 2025 Ripas Sorker Rifat | Built with ❤️ and ☕**
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
