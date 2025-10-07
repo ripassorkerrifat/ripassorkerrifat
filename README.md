@@ -1,9 +1,6 @@
-# 👋 Hi, I'm Ripas Sorker Rifat
+# 👋 Hi, I'm Ripas Sorker Rifat <img src="https://komarev.com/ghpvc/?username=ripassorkerrifat&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile views" /> <img src="https://img.shields.io/github/followers/ripassorkerrifat?label=Followers&style=flat-square&color=22c55e" alt="followers" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&width=800&lines=I'm+a+Full+Stack+Developer;I'm+a+React+Specialist;I'm+a+Next.js+Expert;I'm+a+Problem+Solver;Building+Scalable+Web+Applications" alt="Typing SVG" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=ripassorkerrifat&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/ripassorkerrifat?label=Followers&style=flat-square&color=22c55e" alt="followers" />
 
 ---
 
@@ -13,55 +10,13 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding">
 
-Hello! I am **Md Ripas Sorker Rifat**, a passionate **Full-Stack Developer** specializing in building **modern, scalable, and user-centric web applications** using cutting-edge technologies like **React**, **Next.js**, **Node.js**, **Express.js**, and **PostgreSQL/MongoDB**.
+Hello! I am **Md Ripas Sorker Rifat**, a passionate **Full-Stack Developer** specializing in building modern, scalable web applications using **React**, **Next.js**, **Node.js**, **Express.js**, and **PostgreSQL/MongoDB**.
 
-My journey began with a deep curiosity about how web applications work, which has evolved into a passion for crafting seamless digital experiences. With over **2.7 years of professional experience**, I've contributed to diverse projects—from **Online Travel Agency (OTA)** platforms where I specialized in frontend development, to comprehensive **HRMS systems** and elegant **jewelry e-commerce platforms**.
+With over **2.7 years of professional experience**, I've contributed to diverse projects including **OTA platforms**, **HRMS systems**, and **e-commerce solutions**. I focus on writing clean, maintainable code and thrive on solving complex problems that require technical depth and creative thinking.
 
-I focus on writing **clean, maintainable, and efficient code** that brings both functionality and delight to end-users. My expertise spans **frontend development, full-stack architecture, and database management**, and I thrive on tackling complex, real-world problems that require both **technical depth and creative thinking**.
-
-I'm also deeply interested in **system scalability**, **DevOps practices**, and **performance optimization**, ensuring that every product I build is stable, efficient, and ready for growth.
-
-### 🎯 Core Expertise
-
-```yaml
-✅ Custom Web Applications
-✅ Full-Stack Development
-✅ API Development & Integration
-✅ Database Design & Optimization
-✅ Scalable Architecture & DevOps
-```
+I'm deeply interested in **system scalability**, **DevOps practices**, and **performance optimization**.
 
 <br clear="right"/>
-
----
-
-### 🚀 What I Do
-
-• Build **innovative web solutions** with **React, Next.js, and TypeScript**  
-• Design and develop **RESTful APIs** with Node.js and Express  
-• Create **responsive, user-centric interfaces** with modern UI frameworks  
-• Architect **full-stack applications** with MongoDB, PostgreSQL, and Firebase
-
-### 💼 Professional Experience
-
-• **2.7+ years** of hands-on development experience  
-• Worked on **OTA (Online Travel Agency)** platforms as a frontend expert  
-• Built comprehensive **HRMS (Human Resource Management Systems)**  
-• Developed elegant **e-commerce platforms** for various industries
-
-### 🎯 Current Focus
-
-• Mastering **Cloud Technologies** (AWS, Docker)  
-• Building **high-performance web applications**  
-• **System Scalability** & **Performance Optimization**  
-• Contributing to **open-source projects**  
-• Exploring **AI/ML integration** in web apps
-
-### 💡 My Philosophy
-
-> *"Let's work together and build something truly exceptional."*
-
-**Passionate about creating seamless digital experiences that make a real impact! 🌟**
 
 ---
 
@@ -178,7 +133,7 @@ I'm also deeply interested in **system scalability**, **DevOps practices**, and 
 
 </td>
 <td width="50%" valign="top">
-  
+
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripassorkerrifat&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 
 </td>
@@ -214,17 +169,11 @@ const skills = {
     'Full Stack Development',
     'RESTful API Design',
     'Performance Optimization',
-    'Responsive UI/UX',
     'Team Leadership'
   ],
-  learning: ['AI/ML', 'Microservices', 'Cloud Architecture']
+  learning: ['DevOps Learner', 'Microservices', 'Cloud Architecture']
 };
 ```
-
-### 🎓 Education
-
-- **Bachelor's in Computer Science & Engineering**  
-  Dhaka International University (Ongoing)
 
 ---
 
@@ -365,24 +314,12 @@ Worked on social activities project during internship. Gained hands-on experienc
 
 </div>
 
-### 📊 Project Statistics
-
-| 📂 Category | 🔢 Projects | 💻 Technologies |
-|:------------|:-----------:|:-----------------|
-| **OTA platforms** | 3 | React, Next.js, TypeScript, Node.js |
-| **E-Commerce** | 1 | Next.js, Tailwind CSS, MongoDB |
-| **EdTech** | 1 | React, Node.js, MongoDB, Socket.io |
-| **Marketplace** | 1 | Full Stack (React, Next.js, Node.js) |
-| **Healthcare** | 1 | Next.js, TypeScript, Vercel |
-| **Total** | **7 Live Projects** | **15+ Technologies** |
-
 ---
 
 ## 💡 Fun Fact
 
 > *"I believe in evolving my knowledge and learning continuously every day. Technology excites me, and I love contributing towards making a social impact through innovative web solutions!"*
 
-### 📊 GitHub Statistics
 **🌟 Always exploring new technologies and pushing the boundaries of what's possible with code!**
 
 ---
