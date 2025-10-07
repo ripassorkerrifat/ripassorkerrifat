@@ -178,9 +178,7 @@ I'm also deeply interested in **system scalability**, **DevOps practices**, and 
 
 </td>
 <td width="50%" valign="top">
-
-### 📊 Most Used Languages
-
+  
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripassorkerrifat&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 
 </td>
