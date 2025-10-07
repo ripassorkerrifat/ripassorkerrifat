@@ -224,78 +224,195 @@ const skills = {
 - **Bachelor's in Computer Science & Engineering**  
   Dhaka International University (Ongoing)
 
-### 💼 Work Experience
+---
 
-- **Frontend Expert** - OTA (Online Travel Agency) Platforms
-- **Full Stack Developer** - HRMS (Human Resource Management Systems)
-- **E-commerce Developer** - Jewelry & Retail Platforms
+## 💼 Professional Experience
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Full Stack Developer
+**Cadence IT** • Remote  
+📅 March 2024 - Present • 🟢 **Currently Working**
+
+Developing and maintaining full-stack web applications including OTA platforms, HRMS systems, and e-commerce solutions. Leading frontend development with React/Next.js and building robust backend APIs.
+
+**Tech Stack:**  
+`React` `Next.js` `Node.js` `Express.js` `MongoDB` `PostgreSQL` `TypeScript` `Prisma` `Tailwind CSS` `Redux` `JWT` `AWS`
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Freelance Developer
+**Independent Projects** • Remote  
+📅 2022 - Present • 🟢 **Currently Working**
+
+Working on various freelance projects including OTA platforms, portfolio websites, HRMS solutions, and custom web applications for clients worldwide. Specializing in modern React/Next.js frontend with full-stack capabilities.
+
+**Tech Stack:**  
+`React` `Next.js` `Node.js` `Express.js` `MongoDB` `TypeScript` `Tailwind CSS` `Framer Motion` `Redux`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Junior Web Developer
+**Edupy Academy** • Remote  
+📅 April 2023 - September 2023 • Internship
+
+Developed a comprehensive EduTech learning and marketplace platform. Designed and implemented a responsive web application with modern React/Next.js frontend and robust Node.js backend.
+
+**Tech Stack:**  
+`React` `JavaScript` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Socket.io`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Web Developer
+**The Change** • Remote  
+📅 April 2022 - September 2022 • Internship
+
+Worked on social activities project during internship. Gained hands-on experience in web development by building responsive websites, implementing APIs, and optimizing performance.
+
+**Tech Stack:**  
+`HTML` `CSS` `JavaScript` `React` `Tailwind CSS`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌟 Featured Projects
+## ⭐ Featured Projects
 
-### 🚀 **Live Production Projects**
+### 🚀 Live Production Projects
 
-#### ✈️ **OTA (Online Travel Agency) Platforms**
+#### ✈️ OTA (Online Travel Agency) Platforms
+
+<table>
+<tr>
+<td width="33%" align="center">
+<a href="https://goplane.com/" target="_blank">
+<img src="https://img.shields.io/badge/🌍_GOPLANE-B2C_TRAVEL_PLATFORM-0EA5E9?style=for-the-badge" alt="GoPlane"/>
+</a>
+
+**GoPlane**  
+Comprehensive B2C travel booking platform with flight search, booking management, and payment integration
+
+`React` `Next.js` `TypeScript`
+
+</td>
+<td width="33%" align="center">
+<a href="http://b2b.flight24.co/" target="_blank">
+<img src="https://img.shields.io/badge/✈️_FLIGHT24-B2B_OTA_SYSTEM-10B981?style=for-the-badge" alt="Flight24"/>
+</a>
+
+**Flight24 B2B**  
+Enterprise-level B2B OTA system for travel agencies with advanced booking features
+
+`Next.js` `Node.js` `MongoDB`
+
+</td>
+<td width="33%" align="center">
+<a href="https://hajeeair.com/" target="_blank">
+<img src="https://img.shields.io/badge/🛫_HAJEEAIR-B2B_FLIGHT_BOOKING-0891B2?style=for-the-badge" alt="HajeeAir"/>
+</a>
+
+**HajeeAir B2B**  
+Specialized B2B flight booking platform with real-time availability and pricing
+
+`React` `TypeScript` `Express.js`
+
+</td>
+</tr>
+</table>
+
+#### 💎 E-Commerce & Retail
+
+<table>
+<tr>
+<td width="100%" align="center">
+<a href="https://jewelstone.com.bd/" target="_blank">
+<img src="https://img.shields.io/badge/💍_JEWELSTONE-JEWELRY_E--COMMERCE-F59E0B?style=for-the-badge" alt="JewelStone"/>
+</a>
+
+**JewelStone**  
+Elegant e-commerce platform for jewelry retail with product catalog, cart, and secure checkout
+
+`Next.js` `Tailwind CSS` `MongoDB` `Payment Integration`
+
+</td>
+</tr>
+</table>
+
+#### 🎓 EdTech & Learning
+
+<table>
+<tr>
+<td width="100%" align="center">
+<a href="https://medhabi.co/" target="_blank">
+<img src="https://img.shields.io/badge/📚_MEDHABI-LMS_PLATFORM-8B5CF6?style=for-the-badge" alt="Medhabi"/>
+</a>
+
+**Medhabi**  
+Learning Management System (LMS) with course management, student tracking, and interactive learning tools
+
+`React` `Node.js` `MongoDB` `Socket.io`
+
+</td>
+</tr>
+</table>
+
+#### 🌟 Social & Marketplace
+
+<table>
+<tr>
+<td width="100%" align="center">
+<a href="https://clout9.com/" target="_blank">
+<img src="https://img.shields.io/badge/🎭_CLOUT9-INFLUENCER_MARKETPLACE-EC4899?style=for-the-badge" alt="Clout9"/>
+</a>
+
+**Clout9**  
+Influencer marketplace connecting brands with content creators for marketing campaigns
+
+`Full Stack` `React` `Next.js` `Node.js`
+
+</td>
+</tr>
+</table>
+
+#### 🧠 Health & Wellness
+
+<table>
+<tr>
+<td width="100%" align="center">
+<a href="https://mental-health-olive.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🧘_MENTAL_HEALTH-TRACKING_%26_GUIDANCE-22C55E?style=for-the-badge" alt="Mental Health Tracker"/>
+</a>
+
+**Mental Health Tracker**  
+Comprehensive mental health tracking and guidance platform with mood monitoring and resources
+
+`Next.js` `TypeScript` `Vercel` `Database`
+
+</td>
+</tr>
+</table>
+
+### 📊 Project Statistics
+
 <div align="center">
 
-[![GoPlane](https://img.shields.io/badge/GoPlane-B2C_Travel_Platform-0EA5E9?style=for-the-badge&logo=react&logoColor=white)](https://goplane.com/)
-[![Flight24 B2B](https://img.shields.io/badge/Flight24-B2B_OTA_System-10B981?style=for-the-badge&logo=next.js&logoColor=white)](http://b2b.flight24.co/)
-[![HajeeAir](https://img.shields.io/badge/HajeeAir-B2B_Flight_Booking-0891B2?style=for-the-badge&logo=typescript&logoColor=white)](https://hajeeair.com/)
-
-</div>
-
-- **GoPlane** - Comprehensive B2C travel booking platform with flight search, booking management, and payment integration
-- **Flight24 B2B** - Enterprise-level B2B OTA system for travel agencies with advanced booking features
-- **HajeeAir B2B** - Specialized B2B flight booking platform with real-time availability and pricing
-
-#### 💎 **E-Commerce & Retail**
-<div align="center">
-
-[![JewelStone](https://img.shields.io/badge/JewelStone-Jewelry_E--Commerce-F59E0B?style=for-the-badge&logo=shopify&logoColor=white)](https://jewelstone.com.bd/)
-
-</div>
-
-- **JewelStone** - Elegant e-commerce platform for jewelry retail with product catalog, cart, and secure checkout
-
-#### 🎓 **EdTech & Learning**
-<div align="center">
-
-[![Medhabi](https://img.shields.io/badge/Medhabi-LMS_Platform-8B5CF6?style=for-the-badge&logo=react&logoColor=white)](https://medhabi.co/)
-
-</div>
-
-- **Medhabi** - Learning Management System (LMS) with course management, student tracking, and interactive learning tools
-
-#### 🌟 **Social & Marketplace**
-<div align="center">
-
-[![Clout9](https://img.shields.io/badge/Clout9-Influencer_Marketplace-EC4899?style=for-the-badge&logo=instagram&logoColor=white)](https://clout9.com/)
-
-</div>
-
-- **Clout9** - Influencer marketplace connecting brands with content creators for marketing campaigns
-
-#### 🧠 **Health & Wellness**
-<div align="center">
-
-[![Mental Health Tracker](https://img.shields.io/badge/Mental_Health-Tracking_%26_Guidance-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://mental-health-olive.vercel.app/)
-
-</div>
-
-- **Mental Health Tracker** - Comprehensive mental health tracking and guidance platform with mood monitoring and resources
-
-### 💼 **Project Statistics**
-
-<div align="center">
-
-| Category | Projects | Technologies |
-|:--------:|:--------:|:------------:|
-| **OTA Platforms** | 3 | React, Next.js, TypeScript |
-| **E-Commerce** | 1 | Next.js, Tailwind CSS |
-| **EdTech** | 1 | React, Node.js, MongoDB |
-| **Marketplace** | 1 | Full Stack |
-| **Healthcare** | 1 | Next.js, Vercel |
+| 📂 Category | 🔢 Projects | 💻 Technologies |
+|:------------|:-----------:|:----------------|
+| **OTA Platforms** | 3 | React, Next.js, TypeScript, Node.js |
+| **E-Commerce** | 1 | Next.js, Tailwind CSS, MongoDB |
+| **EdTech** | 1 | React, Node.js, MongoDB, Socket.io |
+| **Marketplace** | 1 | Full Stack (React, Next.js, Node.js) |
+| **Healthcare** | 1 | Next.js, TypeScript, Vercel |
+| **Total** | **7 Live Projects** | **15+ Technologies** |
 
 </div>
 
