@@ -1,6 +1,12 @@
-# 👋 Hi, I'm Ripas Sorker Rifat <img src="https://komarev.com/ghpvc/?username=ripassorkerrifat&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile views" /> <img src="https://img.shields.io/github/followers/ripassorkerrifat?label=Followers&style=flat-square&color=22c55e" alt="followers" />
+<div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&width=800&lines=I'm+a+Full+Stack+Developer;I'm+a+React+Specialist;I'm+a+Next.js+Expert;I'm+a+Problem+Solver;Building+Scalable+Web+Applications" alt="Typing SVG" /></a>
+# 👋 Hi There! <img src="https://komarev.com/ghpvc/?username=ripassorkerrifat&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views" /> <img src="https://img.shields.io/github/followers/ripassorkerrifat?label=Followers&style=for-the-badge&color=22c55e" alt="followers" />
+
+### I'm Ripas Sorker Rifat
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%26+Next.js+Specialist+%E2%9A%9B%EF%B8%8F;Building+Scalable+Applications+%F0%9F%8C%90;Problem+Solver+%F0%9F%92%A1;Clean+Code+Enthusiast+%E2%9C%A8" alt="Typing SVG" /></a>
+
+</div>
 
 ---
 
