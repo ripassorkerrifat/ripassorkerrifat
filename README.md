@@ -269,19 +269,7 @@ Worked on social activities project during internship. Gained hands-on experienc
 
 ---
 
-## ⭐ Featured Projects
-
-### ✈️ OTA (Online Travel Agency) Platforms
-
-<div align="center">
-
-| 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
-|:-----------|:---------------|:---------------|:-------:|
-| **GoPlane**<br/>![](https://img.shields.io/badge/B2C-Platform-0EA5E9?style=flat-square) | Comprehensive B2C travel booking platform with flight search, booking management, and payment integration | `React` `Next.js` `TypeScript` `Node.js` | [<img src="https://img.shields.io/badge/Visit-Live-22C55E?style=for-the-badge&logo=vercel" height="25"/>](https://goplane.com/) |
-| **Flight24 B2B**<br/>![](https://img.shields.io/badge/B2B-OTA_System-10B981?style=flat-square) | Enterprise-level B2B OTA system for travel agencies with advanced booking features and agent management | `Next.js` `Node.js` `MongoDB` `Express` | [<img src="https://img.shields.io/badge/Visit-Live-22C55E?style=for-the-badge&logo=vercel" height="25"/>](http://b2b.flight24.co/) |
-| **HajeeAir B2B**<br/>![](https://img.shields.io/badge/B2B-Flight_Booking-0891B2?style=flat-square) | Specialized B2B flight booking platform with real-time availability and competitive pricing | `React` `TypeScript` `Express.js` `API` | [<img src="https://img.shields.io/badge/Visit-Live-22C55E?style=for-the-badge&logo=vercel" height="25"/>](https://hajeeair.com/) |
-
-</div>
+# 
 
 ### 💎 E-Commerce & Retail
 
