@@ -333,12 +333,6 @@ Worked on social activities project during internship. Gained hands-on experienc
 
 ---
 
-### 📅 Yearly Contribution Heatmap
-
-<img width="100%" src="https://ghchart.rshah.org/6366f1/ripassorkerrifat" alt="GitHub Contribution Chart" />
-
----
-
 ### ⭐ Show Some Love!
 
 **If you find my projects interesting, please consider giving them a star!** ⭐
