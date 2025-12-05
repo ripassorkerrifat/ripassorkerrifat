@@ -18,7 +18,7 @@
 
 Hello! I am **Md Ripas Sorker Rifat**, a passionate **Full-Stack Developer** specializing in building modern, scalable web applications using **React**, **Next.js**, **Node.js**, **Express.js**, and **PostgreSQL/MongoDB**.
 
-With over **2.7 years of professional experience**, I've contributed to diverse projects including **OTA platforms**, **HRMS systems**, and **e-commerce solutions**. I focus on writing clean, maintainable code and thrive on solving complex problems that require technical depth and creative thinking.
+With over **3 years of professional experience**, I've contributed to diverse projects including **OTA platforms**, **HRMS systems**, and **e-commerce solutions**. I focus on writing clean, maintainable code and thrive on solving complex problems that require technical depth and creative thinking.
 
 I'm deeply interested in **system scalability**, **DevOps practices**, and **performance optimization**.
 
